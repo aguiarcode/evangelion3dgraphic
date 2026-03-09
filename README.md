@@ -12,5 +12,5 @@ $ open index.html
 |---|---|---|
 | ![front](./imgs/Screenshot_1.png) | ![rotated](./imgs/Screenshot_2.png) | ![angled](./imgs/Screenshot_3.png) |
 
-Highly inspired by [tsoding/formula](https://github.com/tsoding/formula):
+Highly inspired by [tsoding/formula](https://github.com/tsoding/formula)
 
